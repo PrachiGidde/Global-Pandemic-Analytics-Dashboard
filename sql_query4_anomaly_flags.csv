@@ -1,0 +1,16 @@
+Country,Total_Confirmed,Total_Deaths,Total_Recovered,Data_Quality_Flag
+US,103802702,1123836,0,FLAGGED — Zero Recovery Anomaly
+India,44690738,530779,0,FLAGGED — Zero Recovery Anomaly
+France,39866718,166176,0,FLAGGED — Zero Recovery Anomaly
+Germany,38249060,168935,0,FLAGGED — Zero Recovery Anomaly
+Brazil,37076053,699276,0,FLAGGED — Zero Recovery Anomaly
+Japan,33320438,72997,0,FLAGGED — Zero Recovery Anomaly
+"Korea, South",30615522,34093,0,FLAGGED — Zero Recovery Anomaly
+Italy,25603510,188322,0,FLAGGED — Zero Recovery Anomaly
+United Kingdom,24658705,220721,0,FLAGGED — Zero Recovery Anomaly
+Russia,22075858,388478,0,FLAGGED — Zero Recovery Anomaly
+Turkey,17042722,101492,0,FLAGGED — Zero Recovery Anomaly
+Spain,13770429,119479,0,FLAGGED — Zero Recovery Anomaly
+Vietnam,11526994,43186,0,FLAGGED — Zero Recovery Anomaly
+Australia,11399460,19574,0,FLAGGED — Zero Recovery Anomaly
+Argentina,10044957,130472,0,FLAGGED — Zero Recovery Anomaly

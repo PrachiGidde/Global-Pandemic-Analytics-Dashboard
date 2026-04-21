@@ -1,0 +1,5 @@
+Finding_No,Category,Column,Issue_Count,Issue_%,Detail
+1,Null Values,Fatality_Rate,15630,6.8,"15,630 null values in Fatality_Rate"
+1,Null Values,Recovery_Rate,15630,6.8,"15,630 null values in Recovery_Rate"
+2,Zero Recovery Anomaly,Recovered,194,96.52,194 countries with 0 recoveries
+5,Statistical Outliers,Daily_New_Cases,18,1.57,18 days exceeded 4-sigma threshold
