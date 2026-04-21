@@ -1,4 +1,4 @@
-![Dashboard](screenshots/dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.png)
 # Global Pandemic Data Analytics & Reporting Dashboard
 
 ## Project Overview
